@@ -1,0 +1,18 @@
+ru/stqa/pft/rest/tests/RestAssuredTests.java
+ ru.stqa.pft.rest.tests.RestAssuredTests
+ru/stqa/pft/rest/tests/RestTests.java
+ ru.stqa.pft.rest.tests.RestTests
+ru/stqa/pft/rest/appmanager/ApplicationManager.java
+ ru.stqa.pft.rest.appmanager.ApplicationManager
+ru/stqa/pft/rest/appmanager/RestAssuredHelper.java
+ ru.stqa.pft.rest.appmanager.RestAssuredHelper
+ ru.stqa.pft.rest.appmanager.RestAssuredHelper$1
+ ru.stqa.pft.rest.appmanager.RestAssuredHelper$1IssueDeserializer
+ ru.stqa.pft.rest.appmanager.RestAssuredHelper$2
+ru/stqa/pft/rest/tests/TestBase.java
+ ru.stqa.pft.rest.tests.TestBase
+ru/stqa/pft/rest/appmanager/RestHelper.java
+ ru.stqa.pft.rest.appmanager.RestHelper
+ ru.stqa.pft.rest.appmanager.RestHelper$1
+ru/stqa/pft/rest/model/Issue.java
+ ru.stqa.pft.rest.model.Issue
